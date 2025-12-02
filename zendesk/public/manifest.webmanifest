@@ -1,0 +1,23 @@
+{
+    "name": "ZenTicket",
+    "short_name": "ZenTicket",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0f1115",
+    "theme_color": "#0f1115",
+    "lang": "pt-BR",
+    "icons": [
+        {
+            "src": "/icons/zenticket-logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/zenticket-logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "maskable"
+        }
+    ]
+}
